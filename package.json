@@ -1,16 +1,17 @@
 {
-    "name": "stige",
-    "version": "1.0.0",
-    "description": "Notes app project",
-    "main": "index.js",
-    "scripts": {
-      "test": "Hello"
-    },
-    "author": "GOWTAM RAO",
-    "license": "ISC"
-    "dependencies": {
-      "chalk": "^4.1.1",
-      "express": "^4.17.1",
-      "yargs": "^17.0.1"
-    }
+  "name": "stige",
+  "version": "1.0.0",
+  "description": "Notes app project",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello"
+  },
+  "author": "Gowtam Rao G S",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "express": "^4.17.1",
+    "yargs": "^17.1.1"
   }
+}
+
