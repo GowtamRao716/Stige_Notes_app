@@ -1,13 +1,13 @@
 {
-    "name": "notestakingapp",
+    "name": "stige",
     "version": "1.0.0",
-    "description": "",
+    "description": "Notes app project",
     "main": "index.js",
     "scripts": {
-      "test": "echo \"Error: no test specified\" && exit 1"
+      "test": "Hello"
     },
     "author": "GOWTAM RAO",
-
+    "license": "ISC"
     "dependencies": {
       "chalk": "^4.1.1",
       "express": "^4.17.1",
