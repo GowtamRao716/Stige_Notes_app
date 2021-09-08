@@ -1,0 +1,16 @@
+{
+    "name": "notestakingapp",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "GOWTAM RAO",
+
+    "dependencies": {
+      "chalk": "^4.1.1",
+      "express": "^4.17.1",
+      "yargs": "^17.0.1"
+    }
+  }
